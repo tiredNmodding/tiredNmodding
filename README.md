@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiredNmodding
 - 👀 I’m interested in game modding and homebrew applications.
-- 🌱 I’m currently learning CCNA networking
+- 🌱 I’m currently learning stuff about networking and whatever catches my interest
 - 💞️ I’m not looking to collaborate on anything just yet.
 - 📫 How to reach me ...we'll figure that out later.
 
